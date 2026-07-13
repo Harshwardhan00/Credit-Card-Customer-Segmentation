@@ -1,12 +1,12 @@
 #  Credit Card Customer Segmentation using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project applies **unsupervised machine learning** techniques to segment credit card customers based on their demographics and spending behavior. The objective is to identify distinct customer groups that enable financial institutions to deliver personalized marketing campaigns, improve customer retention, optimize credit offerings, and maximize profitability.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The primary goals of this project are to:
 
@@ -18,7 +18,7 @@ The primary goals of this project are to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Pandas**
@@ -33,7 +33,7 @@ The primary goals of this project are to:
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -59,7 +59,7 @@ The models were compared using the **Silhouette Score**, which measures how well
 
 ---
 
-## 👥 Customer Segments Identified
+##  Customer Segments Identified
 
 ### 1. High-Value Customers
 
